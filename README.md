@@ -13,3 +13,4 @@ A short desctiption of all the files in this repository:
 4. fetchQueries.sql: A SQL file containing MySQL queries addressing the Stakeholder's questions.
 
 5. FetchRewards_Email.pdf: An email to the stakeholder informing about the finidings and other updates.
+
